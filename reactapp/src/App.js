@@ -22,4 +22,8 @@ function App() {
   );
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> AC-Service-Center-Shaik-khajaumar
 export default App;
